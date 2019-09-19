@@ -1,0 +1,45 @@
+body {
+  background-color: #F2F4F4;
+}
+
+h1,
+p {
+  font-family: "Courier New", "Courier", "monospace";
+  text-indent: 30px;
+}
+
+li {
+    display:inline;
+    margin-left:20px;
+}
+
+a{
+    color:#6495ED ;
+    text-decoration:none;
+}
+
+a:hover {
+    color: #7CFC00;
+}
+img{
+    float:right;
+}
+div{
+    text-align: center;
+    align-content: center;
+    width:60%;
+    margin: auto;
+    background-color: #EB984E
+    padding-bottom: 100px 
+    
+}
+.center {
+    margin: auto;
+    width: 60%;
+    padding: 10px;
+  }
+  .foto1{
+    width="240";
+    heigth="300";
+    alt="zo ziet de peperbus er uit.";
+  }

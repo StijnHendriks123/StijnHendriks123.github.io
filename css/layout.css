@@ -1,0 +1,32 @@
+body {
+  background-color: #f2f4f4;
+}
+h1,
+p {
+  font-family: "Courier New", "Courier", "monospace";
+  text-indent: 30px;
+}
+
+li {
+  display: inline;
+  margin-left: 20px;
+}
+
+a {
+  color: #6495ed;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #7cfc00;
+}
+img {
+  float: right;
+}
+.center {
+  text-align: center;
+  align-content: center;
+  width: 60%;
+  margin: auto;
+  background-color: #eb984e;
+}
